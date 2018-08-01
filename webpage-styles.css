@@ -1,0 +1,115 @@
+h1 {
+  font-family: courier;
+  color: #C775E7;
+  text-align: center;
+}
+
+h2 {
+  font-family: courier;
+  color: #B6ACBA;
+  text-align: center;
+}
+
+#profile {
+  text-align: center;
+  font-weight: bold;
+}
+
+#links1 {
+  font-family: courier;
+  font-weight: bold;
+  font-size: 32px;
+  color: blue;
+  text-align: center;
+}
+
+#links2 {
+  font-family: courier;
+  font-weight: bold;
+  font-size: 32px;
+  color: blue;
+  text-align: center;
+}
+
+#links3 {
+  font-family: courier;
+  font-weight: bold;
+  font-size: 32px;
+  color: blue;
+  text-align: center;
+}
+
+h3 {
+  font-family: courier;
+  color: #B6ACBA;
+}
+
+#exp {
+  color: #C775E7;
+  font-weight: bold;
+}
+
+#loc {
+  font-size: 10px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+#class {
+  color: #C775E7;
+  font-weight: bold;
+  text-align: center;
+  font-size: 22px;
+}
+
+#date {
+  font-size: 15px;
+  text-align: center;
+}
+
+#coursework {
+  color: #C775E7;
+  font-weight: bold;
+}
+
+#ec {
+  color: #C775E7;
+  font-weight: bold;
+  text-align: right;
+}
+
+#demo {
+  text-align: center;
+  font-family: arial;
+  font-size: 40px;
+  font-weight: bold;
+  text-shadow: 3px 2px red;
+  text-transform: uppercase;
+}
+
+#skills {
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+  color: #C775E7
+}
+
+#skillsList {
+  font-size: 15px;
+  text-align: center;
+
+}
+
+#background {
+  background-color: white;
+  width: 80%;
+  text-align: center;
+  margin: auto;
+}
